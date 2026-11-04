@@ -2,6 +2,7 @@
   "name": "groundtruth-demo-study-tasks",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "A tiny beginner learning repository for GroundTruth demonstrations.",
   "engines": {

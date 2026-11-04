@@ -1,0 +1,14 @@
+{
+  "name": "groundtruth-demo-study-tasks",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A tiny beginner learning repository for GroundTruth demonstrations.",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server/main.js",
+    "test": "node --test tests/*.test.js"
+  }
+}

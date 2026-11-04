@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Study Tasks · GroundTruth Demo</title>
+  <link rel="stylesheet" href="/style.css"><script src="/app.js" type="module"></script>
+</head>
+<body><main>
+  <p class="eyebrow">GROUNDTRUTH DEMO PROJECT</p>
+  <h1>One task at a time.</h1><p>A tiny study list with a real API and database.</p>
+  <form id="task-form"><label for="title">What will you study?</label>
+    <div><input id="title" name="title" required maxlength="80" placeholder="Understand an API request">
+    <button>Add task</button></div>
+  </form>
+  <p id="status" role="status" aria-live="polite"></p>
+  <ul id="tasks" aria-label="Study tasks"></ul>
+</main></body></html>

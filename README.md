@@ -41,4 +41,3 @@ This is deliberately a local teaching example. It has no login or multi-user iso
 # License
 
 This demonstration repository is MIT licensed; see [LICENSE](LICENSE). Learners may practise on their own copies. GroundTruth never pushes draft edits to this repository.
-
